@@ -1,0 +1,31 @@
+IMP --
+
+If you want to use your gpu to boost the training process then
+Install correct version of CUDA & cuDNN that matches the TensorFlow/PyTorch version you’ll use.
+(For example, TF 2.15 needs CUDA 11.8; PyTorch 2.5.1 supports CUDA 12.1.) 
+
+1 - Create the virtual environment
+
+From your project folder run one of the following.
+
+cd C:\path\to\your\project
+python -m venv .{give-env-name}
+
+
+2 - Activate the venv
+
+You must activate the environment before installing packages.
+
+Command - activate E:/{your folder}
+
+3 - Then install packages
+
+4 - Add this venv as a Jupyter kernel
+
+So you can pick it inside Jupyter notebooks.
+
+Install ipykernel inside the venv and register:
+
+pip install ipykernel
+python -m ipykernel install --user --name=myproject-env --display-name "Python (myproject-env)"
+
