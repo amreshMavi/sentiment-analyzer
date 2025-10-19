@@ -1,6 +1,6 @@
 # sentiment-analyzer
 
-# Project 1: Sentiment Analysis from Social Media Screenshots
+## Project 1: Sentiment Analysis from Social Media Screenshots
 
 ## 📌 Project Overview -----
 This project extracts text from uploaded screenshots of social media posts and performs sentiment analysis. It eliminates the need for direct API access, making it useful for analyzing public sentiment visually captured from platforms like Twitter, Reddit, and Instagram.
@@ -16,6 +16,7 @@ Clean and preprocess text.
 Perform sentiment analysis (positive/negative/neutral).
 
 Display results with confidence scores and visualizations.
+
 
 ## 📁 Links for dataset:- Text Data - https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format
 
@@ -87,7 +88,7 @@ Deploy as a simple web app with Gradio or Flask.
 Incorporate sarcasm or emotion detection.
 
 
-# Project 2: Facial Emotion Detection
+## Project 2: Facial Emotion Detection
 
 
 ## 📌 Project Overview
