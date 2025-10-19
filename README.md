@@ -17,7 +17,6 @@ Perform sentiment analysis (positive/negative/neutral).
 
 Display results with confidence scores and visualizations.
 
-
 ## 📁 Links for dataset:- Text Data - https://www.kaggle.com/datasets/fatihkgg/affectnet-yolo-format
 
 
@@ -42,7 +41,7 @@ pip install jupyter pytesseract Pillow opencv-python regex textblob matplotlib i
 
 ## 📌 Also install the OCR engine:
 
-Download Tesseract OCR
+Download Tesseract OCR - https://github.com/tesseract-ocr/tesseract
 
 Add its path to your system environment variables if needed.
 
