@@ -1,4 +1,4 @@
-# sentiment-analyzer
+# Sentiment-Analyzer
 
 ## Project 1: Sentiment Analysis from Social Media Screenshots
 
